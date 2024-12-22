@@ -1,5 +1,4 @@
 # ATS-Chatbot-for-Recruitment 
-![Architecture]()
 Ce système intelligent de recrutement, utilisant l'IA et le NLP, permet une évaluation objective et personnalisée des candidats.  
 
 - **Analyse des CVs** : extraction et traitement des données pour mieux comprendre les profils.  
@@ -8,4 +7,6 @@ Ce système intelligent de recrutement, utilisant l'IA et le NLP, permet une év
 - **Test adaptatif** : ajustement dynamique des questions selon les réponses données.  
 
 Les bénéfices incluent une sélection plus rapide, réduite en biais humains, et une meilleure adéquation entre candidats et offres d’emploi.  
+
+![Architecture](https://github.com/MohamedBoutaghratine/ATS-Chatbot-for-Recruitment/blob/main/arhcitotlae.jpg)
 
